@@ -1,3 +1,3 @@
 -   [eTest](/debugger/)
 -   [关于我们](/about/)
--   [GitHub](https://github.com/onepiece-smile/docs)
+-   [GitHub](https://github.com/xflihaibo/debug-docs)
